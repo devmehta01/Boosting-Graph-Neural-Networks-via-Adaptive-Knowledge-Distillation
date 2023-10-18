@@ -1,0 +1,2 @@
+test_acc is 0.5526, test_std is 0.0518 
+test_acc is 0.5749, test_std is 0.0598 

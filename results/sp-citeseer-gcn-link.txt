@@ -1,0 +1,7 @@
+test_acc is 0.7146, test_std is 0.0425 
+test_acc is 0.7161, test_std is 0.0396 
+test_acc is 0.7611, test_std is 0.0053 
+test_acc is 0.7606, test_std is 0.0050 
+test_acc is 0.7609, test_std is 0.0054 
+test_acc is 0.7697 
+test_acc is 0.7690 
